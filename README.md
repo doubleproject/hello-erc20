@@ -1,2 +1,3 @@
-# hello-smart-contract
-Hello world for smart contract that helps you get started with the Double stack quickly
+# Hello ERC20
+
+Sample ERC20 project for you to quickly get started with the Double stack.

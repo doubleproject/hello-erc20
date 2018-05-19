@@ -1,0 +1,12 @@
+project: hello-erc20
+chain: ethereum
+backend: geth
+envs:
+  local:
+    networkID: 999
+    backend: geth
+    datadir: double_data
+    local: true
+    host: '127.0.0.1'
+    port: 30303
+    chain: ethereum
